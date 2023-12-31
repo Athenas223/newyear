@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+
+}
+body{
+    background-color: rgb(1, 90, 138);   
+}
+.text h1{
+    line-height: 3;
+    align-items: center;
+    left: 50%;
+    margin: 0 auto;
+    width: 50%; 
+    color: aliceblue;
+
+}
+
+.text li{
+    color: aliceblue;
+    align-items: center;
+    left: 50%;
+    margin: 0 auto;
+    width: 50%; 
+    justify-content: center;
+}
+
+.sobre{
+    color: aliceblue;
+    align-items: center;
+    left: 50%;
+    margin: 0 auto;
+    width: 50%; 
+    justify-content: center;
+}
+
+.textp{
+    color: black;
+}
+
+.fotos{
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+/*.box{
+    float: left;
+    width: 200px;
+    text-align: center;
+    display: block;
+  }
+  .print{
+    float: left;
+    width: 200px;
+    text-align: center;
+    display: block;
+  }
+
+  .luv{
+    float: left;
+    width: 200px;
+    text-align: center;
+    display: block;
+  }
+.img{
+    width: 100%;
+
+}*/
